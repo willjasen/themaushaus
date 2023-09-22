@@ -1,0 +1,11 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'the maus haus'
+theme = 'pulp'
+
+[params]
+    author = "the maus haus"
+    avatar = "avatar.jpg"
+    # avatarDescription = "My avatar description"
+    favicon = "favicon.ico"
+    publicationYear = "2023"
